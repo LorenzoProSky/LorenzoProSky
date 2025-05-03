@@ -1,1 +1,1 @@
-Software engineering is the art of shaping logic into reality—where complexity transforms into elegant simplicity, and problems once deemed impossible are solved through the the synergy of human ingenuity and computational power.
+Software engineering is the art of shaping logic into reality—where complexity transforms into elegant simplicity, and problems once deemed impossible are solved through the synergy of human ingenuity and computational power.
